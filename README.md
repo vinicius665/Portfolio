@@ -1,6 +1,6 @@
 # Portfolio
 Olá,bem vindo ao meu projeto de portfólio
-![image](https://github.com/vinicius665/Portifolio/blob/main/capa%20projeto.png)
+![image](https://github.com/vinicius665/Portfolio/blob/main/capaprojeto.png)
 
 ## Ferramentas utilizadas
 
